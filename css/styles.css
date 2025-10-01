@@ -5504,7 +5504,7 @@ textarea.form-control-lg {
 .tooltip-inner {
   max-width: 200px;
   padding: 0.25rem 0.5rem;
-  color: #fff;
+  color: #f27f50;
   text-align: center;
   background-color: #000;
   border-radius: 0.5rem;
@@ -5533,7 +5533,7 @@ textarea.form-control-lg {
   line-break: auto;
   font-size: 0.875rem;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #f27f50;
   background-clip: padding-box;
   border: 0.125rem solid rgba(0, 0, 0, 0.2);
   border-radius: 0.75rem;
@@ -5563,7 +5563,7 @@ textarea.form-control-lg {
 .bs-popover-top > .popover-arrow::after, .bs-popover-auto[data-popper-placement^=top] > .popover-arrow::after {
   bottom: 0.125rem;
   border-width: 0.5rem 0.5rem 0;
-  border-top-color: #fff;
+  border-top-color: #f27f50;
 }
 
 .bs-popover-end > .popover-arrow, .bs-popover-auto[data-popper-placement^=right] > .popover-arrow {
@@ -5579,7 +5579,7 @@ textarea.form-control-lg {
 .bs-popover-end > .popover-arrow::after, .bs-popover-auto[data-popper-placement^=right] > .popover-arrow::after {
   left: 0.125rem;
   border-width: 0.5rem 0.5rem 0.5rem 0;
-  border-right-color: #fff;
+  border-right-color: #f27f50;
 }
 
 .bs-popover-bottom > .popover-arrow, .bs-popover-auto[data-popper-placement^=bottom] > .popover-arrow {
@@ -5593,7 +5593,7 @@ textarea.form-control-lg {
 .bs-popover-bottom > .popover-arrow::after, .bs-popover-auto[data-popper-placement^=bottom] > .popover-arrow::after {
   top: 0.125rem;
   border-width: 0 0.5rem 0.5rem 0.5rem;
-  border-bottom-color: #fff;
+  border-bottom-color: #f27f50;
 }
 .bs-popover-bottom .popover-header::before, .bs-popover-auto[data-popper-placement^=bottom] .popover-header::before {
   position: absolute;
@@ -5619,7 +5619,7 @@ textarea.form-control-lg {
 .bs-popover-start > .popover-arrow::after, .bs-popover-auto[data-popper-placement^=left] > .popover-arrow::after {
   right: 0.125rem;
   border-width: 0.5rem 0 0.5rem 0.5rem;
-  border-left-color: #fff;
+  border-left-color: #f27f50;
 }
 
 .popover-header {
@@ -5728,7 +5728,7 @@ textarea.form-control-lg {
   justify-content: center;
   width: 15%;
   padding: 0;
-  color: #fff;
+  color: #f27f50;
   text-align: center;
   background: none;
   border: 0;
@@ -5744,7 +5744,7 @@ textarea.form-control-lg {
 .carousel-control-prev:hover, .carousel-control-prev:focus,
 .carousel-control-next:hover,
 .carousel-control-next:focus {
-  color: #fff;
+  color: #f27f50;
   text-decoration: none;
   outline: 0;
   opacity: 0.9;
@@ -5918,7 +5918,7 @@ textarea.form-control-lg {
   flex-direction: column;
   max-width: 100%;
   visibility: hidden;
-  background-color: #fff;
+  background-color: #f27f50;
   background-clip: padding-box;
   outline: 0;
   transition: transform 0.3s ease-in-out;
@@ -7255,9 +7255,7 @@ textarea.form-control-lg {
   color: #212529 !important;
 }
 
-.text-white {
-  color: #fff !important;
-}
+
 
 .text-body {
   color: #212529 !important;
