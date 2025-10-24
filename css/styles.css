@@ -2370,7 +2370,7 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  border: 1px solid rgba(211, 212, 213, 0.5);
+  border: 1px solid rgba(220, 54, 68, 0.02);
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
@@ -2950,7 +2950,7 @@ textarea.form-control-lg {
 }
 .btn-check:checked + .btn-secondary, .btn-check:active + .btn-secondary, .btn-secondary:active, .btn-secondary.active, .show > .btn-secondary.dropdown-toggle {
   color: #fff3cd;
-  background-color: rgba();
+  background-color: rgba(220, 54, 68, 0.02);
   border-color: rgba(211, 212, 213, 0.5);
 }
 .btn-check:checked + .btn-secondary:focus, .btn-check:active + .btn-secondary:focus, .btn-secondary:active:focus, .btn-secondary.active:focus, .show > .btn-secondary.dropdown-toggle:focus {
@@ -2958,8 +2958,8 @@ textarea.form-control-lg {
 }
 .btn-secondary:disabled, .btn-secondary.disabled {
   color: #fff3cd;
-  background-color: rgba(220, 69, 54, 0.02);
-  border-color: rgba(220, 69, 54, 0.02);
+  background-color: rgba(220, 54, 68, 0.02);
+  border-color: rgba(211, 212, 213, 0.5);
 }
 
 .btn-success {
@@ -3146,7 +3146,7 @@ textarea.form-control-lg {
 .btn-outline-secondary:hover {
   color: #fff3cd;
   background-color: #f27f50;
-  border-color: rgba(211, 212, 213, 0.5);
+  border-color: rgba(220, 54, 68, 0.02);
 }
 .btn-check:focus + .btn-outline-secondary, .btn-outline-secondary:focus {
   box-shadow: 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
@@ -3154,14 +3154,14 @@ textarea.form-control-lg {
 .btn-check:checked + .btn-outline-secondary, .btn-check:active + .btn-outline-secondary, .btn-outline-secondary:active, .btn-outline-secondary.active, .btn-outline-secondary.dropdown-toggle.show {
   color: #fff3cd;
   background-color: rgba(220, 69, 54, 0.02);
-  border-color: rgba(211, 212, 213, 0.5);
+  border-color: rgba(220, 54, 68, 0.02);
 }
 .btn-check:checked + .btn-outline-secondary:focus, .btn-check:active + .btn-outline-secondary:focus, .btn-outline-secondary:active:focus, .btn-outline-secondary.active:focus, .btn-outline-secondary.dropdown-toggle.show:focus {
   box-shadow: 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
 }
 .btn-outline-secondary:disabled, .btn-outline-secondary.disabled {
   color: rgba(211, 212, 213, 0.5);
-  background-color: transparent rgba(211, 212, 213, 0.5);
+  background-color: transparent rgba(220, 54, 68, 0.02);
 }
 
 .btn-outline-success {
@@ -3186,7 +3186,7 @@ textarea.form-control-lg {
 }
 .btn-outline-success:disabled, .btn-outline-success.disabled {
   color: #f27f50;
-  background-color: transparent rgba(211, 212, 213, 0.5);
+  background-color: transparent rgba(220, 54, 68, 0.02);
 }
 
 .btn-outline-info {
@@ -3211,7 +3211,7 @@ textarea.form-control-lg {
 }
 .btn-outline-info:disabled, .btn-outline-info.disabled {
   color: #f27f50;
-  background-color: transparent rgba(211, 212, 213, 0.5);
+  background-color: transparent rgba(220, 54, 68, 0.02);
 }
 
 .btn-outline-warning {
@@ -3357,7 +3357,7 @@ textarea.form-control-lg {
   list-style: none;
   background-color: #fff3cd;
   background-clip: padding-box;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
   border-radius: 0.5rem;
 }
 .dropdown-menu[data-bs-popper] {
@@ -3547,7 +3547,7 @@ textarea.form-control-lg {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
-  border-top: 1px solid rgba(220, 69, 54, 0.02);
+  border-top: 1px solid rgba(220, 54, 68, 0.02);
 }
 
 .dropdown-item {
@@ -4084,7 +4084,7 @@ textarea.form-control-lg {
   word-wrap: break-word;
   background-color: #fff3cd;
   background-clip: border-box;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
   border-radius: 0.5rem;
 }
 .card > hr {
@@ -4139,7 +4139,7 @@ textarea.form-control-lg {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
   background-color: rgba(211, 212, 213, 0.5);
-  border-bottom: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border-bottom: 0.125rem solid rgba(220, 54, 68, 0.02);
 }
 .card-header:first-child {
   border-radius: 0.375rem 0.375rem 0 0;
@@ -4147,8 +4147,8 @@ textarea.form-control-lg {
 
 .card-footer {
   padding: 0.5rem 1rem;
-  background-color: rgba(211, 212, 213, 0.5);
-  border-top: 0.125rem solid rgba(211, 212, 213, 0.5);
+  background-color: rgba(220, 54, 68, 0.02);
+  border-top: 0.125rem solid rgba(220, 54, 68, 0.02);
 }
 .card-footer:last-child {
   border-radius: 0 0 0.375rem 0.375rem;
@@ -4289,7 +4289,7 @@ textarea.form-control-lg {
 
 .accordion-item {
   background-color: #fff3cd;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
 }
 .accordion-item:first-of-type {
   border-top-left-radius: 0.5rem;
@@ -4597,7 +4597,7 @@ textarea.form-control-lg {
 }
 
 .progress-bar-striped {
-  background-image: linear-gradient(45deg, rgba(211, 212, 213, 0.5) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-image: linear-gradient(45deg, rgba(211, 212, 213, 0.5) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(220, 54, 68, 0.02) 75%, transparent 75%, transparent);
   background-size: 1rem 1rem;
 }
 
@@ -4652,7 +4652,7 @@ textarea.form-control-lg {
   color: #212121;
   text-decoration: none;
   background-color: #fff3cd;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
 }
 .list-group-item:first-child {
   border-top-left-radius: inherit;
@@ -4975,7 +4975,7 @@ textarea.form-control-lg {
   pointer-events: auto;
   background-color: rgba(211, 212, 213, 0.5);
   background-clip: padding-box;
-  border: 1px solid rgba(220, 69, 54, 0.02);
+  border: 1px solid rgba(220, 54, 68, 0.02);
   box-shadow: 0 0.5rem 1rem rgba(211, 212, 213, 0.5);
   border-radius: 0.5rem;
 }
@@ -5002,9 +5002,9 @@ textarea.form-control-lg {
   align-items: center;
   padding: 0.5rem 0.75rem;
   color: #6c757d;
-  background-color: rgba(211, 212, 213, 0.5);
+  background-color: rgba(220, 54, 68, 0.02);
   background-clip: padding-box;
-  border-bottom: 1px solid rgba(211, 212, 213, 0.5);
+  border-bottom: 1px solid rgba(220, 54, 68, 0.02);
   border-top-left-radius: calc(0.5rem - 1px);
   border-top-right-radius: calc(0.5rem - 1px);
 }
@@ -5078,7 +5078,7 @@ textarea.form-control-lg {
   pointer-events: auto;
   background-color: #ddd;
   background-clip: padding-box;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
   border-radius: 0.75rem;
   outline: 0;
 }
@@ -5425,7 +5425,7 @@ textarea.form-control-lg {
   word-wrap: break-word;
   background-color: #f27f50;
   background-clip: padding-box;
-  border: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border: 0.125rem solid rgba(220, 54, 68, 0.02);
   border-radius: 0.75rem;
 }
 .popover .popover-arrow {
@@ -5448,7 +5448,7 @@ textarea.form-control-lg {
 .bs-popover-top > .popover-arrow::before, .bs-popover-auto[data-popper-placement^=top] > .popover-arrow::before {
   bottom: 0;
   border-width: 0.5rem 0.5rem 0;
-  border-top-color: rgba(211, 212, 213, 0.5);
+  border-top-color: rgba(220, 54, 68, 0.02);
 }
 .bs-popover-top > .popover-arrow::after, .bs-popover-auto[data-popper-placement^=top] > .popover-arrow::after {
   bottom: 0.125rem;
@@ -5853,7 +5853,7 @@ textarea.form-control-lg {
   top: 0;
   right: 0;
   width: 400px;
-  border-left: 0.125rem solid rgba(211, 212, 213, 0.5);
+  border-left: 0.125rem solid rgba(220, 54, 68, 0.02);
   transform: translateX(100%);
 }
 
