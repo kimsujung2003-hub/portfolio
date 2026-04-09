@@ -56,7 +56,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212121;
-  background-color: #fff3cd;
+  background-color: #faf9f9;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(211, 212, 213, 0.5);
 }
@@ -188,7 +188,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.2em;
-  background-color: #fff3cd;
+  background-color: #faf9f9;
 }
 
 sub,
@@ -212,7 +212,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: rgb(255,127,80);
+  color: rgb(250,249,249);
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -245,7 +245,7 @@ pre code {
 
 code {
   font-size: 0.875em;
-  color: #f27f50;
+  color: #a6a6a6;
   word-wrap: break-word;
 }
 a > code {
@@ -255,8 +255,8 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
-  color: #fff3cd;
-  background-color: #f27f50;
+  color: #faf9f9;
+  background-color: #a6a6a6;
   border-radius: 0.25rem;
 }
 kbd kbd {
@@ -279,7 +279,7 @@ table {
 caption {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  color: #fff3cd;
+  color: #faf9f9;
   text-align: left;
 }
 
@@ -558,7 +558,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #fff3cd;
+  color: #faf9f9;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -571,8 +571,8 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff3cd;
-  border: 0.125rem solid #fff3cd;
+  background-color: #faf9f9;
+  border: 0.125rem solid #faf9f9;
   border-radius: 0.5rem;
   max-width: 100%;
   height: auto;
@@ -589,7 +589,7 @@ progress {
 
 .figure-caption {
   font-size: 0.875em;
-  color: #fd7e14;
+  color: #a6a6a6;
 }
 
 .container,
@@ -1933,9 +1933,9 @@ progress {
   --bs-table-hover-bg: rgba(211, 212, 213, 0.5);
   width: 100%;
   margin-bottom: 1rem;
-  color: #fff3cd;
+  color: #faf9f9;
   vertical-align: top;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 .table > :not(caption) > * > * {
   padding: 0.5rem 0.5rem;
@@ -1988,65 +1988,65 @@ progress {
 }
 
 .table-primary {
-  --bs-table-bg: #fff3cd;
-  --bs-table-striped-bg: #fff3cd;
+  --bs-table-bg: #faf9f9;
+  --bs-table-striped-bg: #faf9f9;
   --bs-table-striped-color: #212121;
-  --bs-table-active-bg: #fff3cd;
+  --bs-table-active-bg: #faf9f9;
   --bs-table-active-color: #212121;
-  --bs-table-hover-bg: #fff3cd;
+  --bs-table-hover-bg: #faf9f9;
   --bs-table-hover-color: #212121;
   color: #212121;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 
 .table-secondary {
-  --bs-table-bg: #fff3cd;
-  --bs-table-striped-bg: #fff3cd;
+  --bs-table-bg: #faf9f9;
+  --bs-table-striped-bg: #faf9f9;
   --bs-table-striped-color: #212121;
-  --bs-table-active-bg: #fff3cd;
+  --bs-table-active-bg: #faf9f9;
   --bs-table-active-color: #212121;
-  --bs-table-hover-bg: #fff3cd;
+  --bs-table-hover-bg: #faf9f9;
   --bs-table-hover-color: #212121;
   color: #212121;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 
 .table-success {
-  --bs-table-bg: #fff3cd;
-  --bs-table-striped-bg: #fff3cd;
+  --bs-table-bg: #faf9f9;
+  --bs-table-striped-bg: #faf9f9;
   --bs-table-striped-color: #212121;
-  --bs-table-active-bg: #fff3cd;
+  --bs-table-active-bg: #faf9f9;
   --bs-table-active-color: #212121;
-  --bs-table-hover-bg: #fff3cd;
+  --bs-table-hover-bg: #faf9f9;
   --bs-table-hover-color: #212121;
   color: #212121;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 
 .table-info {
-  --bs-table-bg: #fff3cd;
-  --bs-table-striped-bg: #fff3cd;
+  --bs-table-bg: #faf9f9;
+  --bs-table-striped-bg: #faf9f9;
   --bs-table-striped-color: #212121;
-  --bs-table-active-bg: #fff3cd;
+  --bs-table-active-bg: #faf9f9;
   --bs-table-active-color: #212121;
-  --bs-table-hover-bg: #fff3cd;
+  --bs-table-hover-bg: #faf9f9;
   --bs-table-hover-color: #212121;
   color: #212121;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 
 
 
 .table-light {
-  --bs-table-bg: #fff3cd;
-  --bs-table-striped-bg: #fff3cd;
+  --bs-table-bg: #faf9f9;
+  --bs-table-striped-bg: #faf9f9;
   --bs-table-striped-color: #212121;
-  --bs-table-active-bg: #fff3cd;
+  --bs-table-active-bg: #faf9f9;
   --bs-table-active-color: #212121;
-  --bs-table-hover-bg: #fff3cd;
+  --bs-table-hover-bg: #faf9f9;
   --bs-table-hover-color: #212121;
   color: #212121;
-  border-color: #fff3cd;
+  border-color: #faf9f9;
 }
 
 
@@ -2124,9 +2124,9 @@ progress {
   font-weight: 400;
   line-height: 1.5;
   color: #faf9f9;
-  background-color: #fff3cd;
+  background-color: #faf9f9;
   background-clip: padding-box;
-  border: 0.125rem solid #fff3cd;
+  border: 0.125rem solid #faf9f9;
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
@@ -2468,10 +2468,10 @@ textarea.form-control-lg {
   outline: 0;
 }
 .form-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 1px #fff3cd, 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
+  box-shadow: 0 0 0 1px #faf9f9, 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
 }
 .form-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #fff3cd, 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
+  box-shadow: 0 0 0 1px #faf9f9, 0 0 0 0.25rem rgba(211, 212, 213, 0.5);
 }
 .form-range::-moz-focus-outer {
   border: 0;
